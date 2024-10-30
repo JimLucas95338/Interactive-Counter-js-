@@ -32,9 +32,13 @@ Simply open index.html in your preferred browser
 ## 📁 Project Structure
 
 interactive-counter/
+
 │
+
 ├── index.html          # Main HTML file
+
 ├── followers_count.js  # Counter logic
+
 └── README.md          # Documentation
 
 ## 🛠️ Technical Stack
