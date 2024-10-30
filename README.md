@@ -63,8 +63,8 @@ JavaScript enabled
 
 ## 🎯 Milestone Alerts
 
-✨ 10 Followers: "Your Instagram post gained 10 followers! Congratulations!"
-🌟 20 Followers: "Your Instagram post gained 20 followers! Keep it up!"
+- ✨ 10 Followers: "Your Instagram post gained 10 followers! Congratulations!"
+- 🌟 20 Followers: "Your Instagram post gained 20 followers! Keep it up!"
 
 ## 🤝 Contributing
 
