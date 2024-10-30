@@ -53,8 +53,15 @@ Any modern web browser (Chrome, Firefox, Safari, Edge)
 JavaScript enabled
 
 ## 🔧 Functions
-FunctionDescriptionincreaseCount()Increments follower count by 1displayCount()Updates UI with current countresetCount()Resets counter to zerocheckCountValue()Triggers milestone alerts
-🎯 Milestone Alerts
+
+| Function | Description |
+|----------|-------------|
+| `increaseCount()` | Increments follower count by 1 |
+| `displayCount()` | Updates UI with current count |
+| `resetCount()` | Resets counter to zero |
+| `checkCountValue()` | Triggers milestone alerts |
+
+## 🎯 Milestone Alerts
 
 ✨ 10 Followers: "Your Instagram post gained 10 followers! Congratulations!"
 🌟 20 Followers: "Your Instagram post gained 20 followers! Keep it up!"
