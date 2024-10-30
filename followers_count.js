@@ -10,6 +10,13 @@ function displayCount(){
     document.getElementById('countDisplay').innerHTML=count;
 }
 
+function resetCount(){
+    count = 0;
+    displayCount(); //Display the count
+    checkCountValue(); // Check count value and display messages
+        alert ("Count has been reset");
+    }
+
 
 function checkCountValue() {
     if (count === 10) {
