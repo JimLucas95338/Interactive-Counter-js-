@@ -4,7 +4,7 @@
 ![GitHub code size in bytes](https://img.shields.io/badge/code%20size-1.2KB-blue)
 ![GitHub License](https://img.shields.io/badge/license-MIT-yellow)
 
-> A sleek web application that simulates an Instagram follower counter with real-time updates and milestone celebrations! 🎉
+A sleek web application that simulates an Instagram follower counter with real-time updates and milestone celebrations! 🎉
 
 <p align="center">
   <img src="/api/placeholder/800/400" alt="Interactive Counter Demo" width="800"/>
