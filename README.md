@@ -43,9 +43,9 @@ interactive-counter/
 
 ## 🛠️ Technical Stack
 
-HTML5
-Vanilla JavaScript
-CSS3
+- 🌐 HTML5
+- 💻 Vanilla JavaScript
+- 🎨 CSS3
 
 ## 📋 Requirements
 
