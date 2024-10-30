@@ -7,7 +7,7 @@
 A sleek web application that simulates an Instagram follower counter with real-time updates and milestone celebrations! 🎉
 
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Interactive Counter Demo" width="800"/>
+  <img src="https://github.com/JimLucas95338/Interactive-Counter-js-/blob/main/Screenshot%202024-10-30%20112600.png" alt="Interactive Counter Screenshot" width="800"/>
 </p>
 
 ## ✨ Features
