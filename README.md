@@ -75,4 +75,5 @@ Push to the branch (git push origin feature/amazing)
 Create a new Pull Request
 
 ## 📜 License
-Open Source
+
+This project is licensed under the [MIT License](LICENSE) - see the file for details:
